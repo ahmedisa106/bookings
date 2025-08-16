@@ -29,7 +29,7 @@ php artisan serve
 
 ## Download Postman collection :
 
-[Postman collection](https://lunar-space-177404.postman.co/workspace/Dulany~3539db2e-b47d-4ef9-87b1-6f81245e1d93/collection/10790147-355db57e-1c62-4552-99ab-d7db3c09199c?action=share&creator=10790147&active-environment=10790147-d0d4b12d-93eb-4505-a822-39f2ae7fcf5b)
+[Postman collection](https://drive.google.com/file/d/1v0kFn-z5r67bt-9lFVM6uaRlIHvlUIkY/view?usp=sharing)
 
 ## for Authentication
 
